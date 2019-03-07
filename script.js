@@ -1,0 +1,9 @@
+$(".b1").click(function(){
+    $(".img1").fadeToggle();
+});
+$(".b2").click(function(){
+    $(".img2").fadeToggle();
+});
+$(".b3").click(function(){
+    $(".img3").slideToggle();
+});
